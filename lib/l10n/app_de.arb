@@ -1,0 +1,9 @@
+{
+  "login": "Anmelden",
+  "noAccount": "Noch kein Konto?",
+  "register": "Hier Registrieren",
+  "createAcc": "Konto erstellen",
+  "existingAcc": "Konto bereits vorhanden?",
+  "loginHere": "Hier anmelden",
+  "pwNoMatch": "Passwort stimmt nicht überein"
+}

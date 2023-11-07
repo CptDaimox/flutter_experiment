@@ -1,0 +1,9 @@
+{
+  "login": "Login",
+  "noAccount": "Don't have an account?",
+  "register": "Register here",
+  "createAcc": "Create an account",
+  "existingAcc": "Already have an account?",
+  "loginHere": "Login here",
+  "pwNoMatch": "Passwords don't match"
+}
